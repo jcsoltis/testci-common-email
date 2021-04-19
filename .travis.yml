@@ -1,5 +1,5 @@
 language:java
-script: 
- - mvn clean install
 jdk:
  - openjdk11
+script: 
+ - mvn clean install
