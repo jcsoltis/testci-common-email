@@ -3,5 +3,5 @@ jdk:
  - openjdk11
 script:
  - java --version
- - ./mvnw clean install
- - ./mvnw test
+ - mvn clean install
+ - mvn test
